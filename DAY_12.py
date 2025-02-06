@@ -8,6 +8,7 @@ class Solution:
         
         for i in range(n - 1, -1, -1):
             v = d[s[i]]
+            
             if v < b:
                 a -= v
             else:
