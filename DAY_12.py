@@ -16,4 +16,3 @@ class Solution:
                 a += v
             b = v
         return a
-#dict the 
